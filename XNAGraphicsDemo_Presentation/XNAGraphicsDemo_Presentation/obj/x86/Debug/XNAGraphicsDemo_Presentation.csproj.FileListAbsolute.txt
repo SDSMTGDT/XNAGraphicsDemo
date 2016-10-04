@@ -1,0 +1,11 @@
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\Content\shuttle.xnb
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\Content\SmileyWalk.xnb
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\XNAGraphicsDemo_Presentation.exe
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\XNAGraphicsDemo_Presentation.pdb
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\obj\x86\Debug\XNAGraphicsDemo_Presentation.csprojResolveAssemblyReference.cache
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\obj\x86\Debug\XNAGraphicsDemo_Presentation.exe
+C:\GameDevThings\C#(MonoGame)Tutorials\XNAGraphicsDemo_Presentation\XNAGraphicsDemo_Presentation\obj\x86\Debug\XNAGraphicsDemo_Presentation.pdb
